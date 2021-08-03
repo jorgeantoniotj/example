@@ -52,9 +52,6 @@ function App() {
         <button onClick={facebook}>FACEBOOK</button><br/>
         <button onClick={google}>GOOGLE</button><br/>
         <button onClick={apple}>APPLE ID</button>
-        <button onClick={facebook}>FACEBOOK</button><br/>
-        <button onClick={google}>GOOGLE</button><br/>
-        <button onClick={apple}>APPLE ID</button>
         <p>{data}</p>
       </header>
     </div>
